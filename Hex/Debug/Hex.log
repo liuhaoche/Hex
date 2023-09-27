@@ -1,0 +1,9 @@
+﻿  源.cpp
+D:\1+1为什么等于2\Hex\Hex\源.cpp(9,1): warning C4005: “INT_MIN”: 宏重定义
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\limits.h(35): message : 参见“INT_MIN”的前一个定义
+D:\1+1为什么等于2\Hex\Hex\源.cpp(19,29): warning C4305: “初始化”: 从“double”到“float”截断
+D:\1+1为什么等于2\Hex\Hex\源.cpp(878,29): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\1+1为什么等于2\Hex\Hex\源.cpp(881,30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\1+1为什么等于2\Hex\Hex\源.cpp(883,38): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\1+1为什么等于2\Hex\Hex\源.cpp(808): warning C4715: “islegal”: 不是所有的控件路径都返回值
+  Hex.vcxproj -> D:\1+1为什么等于2\Hex\Debug\Hex.exe
